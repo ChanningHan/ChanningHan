@@ -1,16 +1,26 @@
-### Hi there 👋
+###   Hi there 👋
 
-I am Channing, a FE developer.
+I am Channing, a FE developer 🌚
 
+<hr/>
 
+### 🔫 Hobby
+- 🧑🏻‍💻 Coding
+- 🏀 Basketball
+- 🏸️ Badminton
+- 🎮 LOL Cloud Player
 
- ✍🏻 Blog: [ChanningHyl🙌](https://juejin.cn/user/2101921963839678/posts)
+<hr/>
+
+### ⚡️ Info
+
+- ✍🏻 Blog: [ChanningHyl🙌](https://juejin.cn/user/2101921963839678/posts)
  
- 👾 CodePen: [Channing](https://codepen.io/channinghan)
+- 👾 CodePen: [Channing](https://codepen.io/channinghan)
  
- 📨 Email: channinghyl@gmail.com
+- 📨 Email: channinghyl@gmail.com
  
- 💬 WeChat: channinghyl
+- 💬 WeChat: channinghyl
  
 
  <hr/> 
@@ -19,7 +29,7 @@ I am Channing, a FE developer.
 
 <!--
 **ChanningHan/ChanningHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+⚡️⚡️
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
